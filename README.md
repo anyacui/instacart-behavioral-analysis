@@ -18,7 +18,7 @@ Interactive analytics platform analyzing 3.4M grocery orders to identify custome
 ![Department Segmentation](https://i.imgur.com/WqwmMO9.png)
 ![Department Segmentation 2](https://i.imgur.com/GsoCj4Q.png)
 
-
+*Loyalty evolution shows quick habit formation*
 ![Loyalty Evolution](https://i.imgur.com/mzyePuw.png)
 
 ## Key Features
