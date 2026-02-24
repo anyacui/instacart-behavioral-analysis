@@ -10,13 +10,14 @@ Interactive analytics platform analyzing 3.4M grocery orders to identify custome
 
 ## Screenshots
 
+*Main dashboard with peak hours heatmap and category distribution*
 ![Dashboard Overview](https://i.imgur.com/NWiNLsV.png)
 ![Dashboard Overview 2](https://i.imgur.com/pdyrMtQ.png)
-*Main dashboard with peak hours heatmap and category distribution*
 
+*Behavioral clustering showing power categories vs. exploratory segments*
 ![Department Segmentation](https://i.imgur.com/WqwmMO9.png)
 ![Department Segmentation 2](https://i.imgur.com/GsoCj4Q.png)
-*Behavioral clustering showing power categories vs. exploratory segments*
+
 
 ![Loyalty Evolution](https://i.imgur.com/mzyePuw.png)
 
