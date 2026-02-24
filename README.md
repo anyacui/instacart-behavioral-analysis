@@ -75,7 +75,7 @@ streamlit run src/dashboard.py
 
 ## Data
 
-This project uses the [Instacart Market Basket Analysis dataset](https://www.kaggle.com/c/instacart-market-basket-analysis/data) from Kaggle.
+This project uses the [Instacart Market Basket Analysis dataset](https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset/data) from Kaggle.
 
 **To run locally:**
 1. Download dataset from Kaggle
