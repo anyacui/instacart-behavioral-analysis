@@ -18,8 +18,8 @@ data/orders.csv
 data/products.csv
 data/departments.csv
 data/aisles.csv
-data/order_products_prior.csv
-data/order_products_train.csv
+data/order_products__prior.csv
+data/order_products__train.csv
 
 # OS
 .DS_Store

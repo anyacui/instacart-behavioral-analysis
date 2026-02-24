@@ -11,11 +11,11 @@ Interactive analytics platform analyzing 3.4M grocery orders to identify custome
 ## Screenshots
 
 ![Dashboard Overview](https://i.imgur.com/NWiNLsV.png)
-(https://i.imgur.com/pdyrMtQ.png)
+![Dashboard Overview 2](https://i.imgur.com/pdyrMtQ.png)
 *Main dashboard with peak hours heatmap and category distribution*
 
 ![Department Segmentation](https://i.imgur.com/WqwmMO9.png)
-(https://i.imgur.com/GsoCj4Q.png)
+![Department Segmentation 2](https://i.imgur.com/GsoCj4Q.png)
 *Behavioral clustering showing power categories vs. exploratory segments*
 
 ![Loyalty Evolution](https://i.imgur.com/mzyePuw.png)
@@ -86,7 +86,7 @@ This project uses the [Instacart Market Basket Analysis dataset](https://www.kag
    - `order_products__prior.csv`
 3. Run `notebooks/exploratory_analysis.ipynb` to generate processed data
 
-## 💡 Analysis Highlights
+## Analysis Highlights
 
 **Department Behavioral Clustering:**
 - **Power categories** (Produce 65%, Dairy 67%): High loyalty at median basket size, driving 46% of volume
